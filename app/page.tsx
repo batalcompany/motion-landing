@@ -85,8 +85,8 @@ export default function EventPage() {
               정보도 교류하고 돈도 받자.
             </h1>
             <p className="text-[17px] text-gray-800 mb-5">
-              남양주 관련한 생활 정보, 동네 사건 또는 <br />
-              고민, 질문, 이야기 등을 포럼에 게시하기.
+              남양주 관련 생활 정보, 동네 사건 또는 <br />
+              일상, 고민, 질문, 이야기를 포럼에 게시.
             </p>
             <p className="text-[17px] text-gray-800 mb-5">
               참여 방법  <br />
