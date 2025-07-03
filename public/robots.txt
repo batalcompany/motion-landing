@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motionbuysell.com/sitemap.xml
