@@ -98,7 +98,7 @@ export default function EventPage() {
               대상: 현재 남양주 거주민 <br />
             </p>
             <h1 className="text-[17px] font-bold leading-tight mb-8">
-              사는 이야기가 사는 힘이 됩니다.
+              당신의 이야기를 들려주세요.
             </h1>
             <div className="text-gray-700 mb-10 md:mb-4">
               <button
