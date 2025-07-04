@@ -76,7 +76,6 @@ export default function EventPage() {
         <div className="mx-auto max-w-[1200px] px-4 md:px-8 flex md:flex-row flex-col justify-between items-center gap-8 w-full -mt-8">
 
           <div>
-
             <h1 className="text-5xl font-bold leading-tight mb-4">
               게시물 올리고 <br />
               5,000원 받기!
@@ -91,13 +90,16 @@ export default function EventPage() {
             <p className="text-[17px] text-gray-800 mb-5">
               참여 방법  <br />
               1. 남양주 위치 포럼에 글 올림 <br />
-              2. 커피 아이콘 누르고 입금 정보 전송 <br />
+              2. 컵 아이콘 누르고 입금 정보 전송 <br />
               3. 입금 확인하고 모션 더 즐기기! <br />
             </p>
-            <p className="text-[17px] text-gray-800 mb-12">
+            <p className="text-[17px] text-gray-800 mb-5">
               기한: 선착순 200명 <br />
               대상: 현재 남양주 거주민 <br />
             </p>
+            <h1 className="text-[17px] font-bold leading-tight mb-8">
+              사는 이야기가 사는 힘이 됩니다.
+            </h1>
             <div className="text-gray-700 mb-10 md:mb-4">
               <button
                 onClick={() => {
